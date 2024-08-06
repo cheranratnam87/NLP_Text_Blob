@@ -1,3 +1,5 @@
+
+[![Build and Test](https://github.com/cheranratnam87/NLP_Text_Blob/actions/workflows/main.yml/badge.svg)](https://github.com/cheranratnam87/NLP_Text_Blob/actions/workflows/main.yml)
 Compile and install Python from scratch
 
 #sudo apt-get update
